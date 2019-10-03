@@ -44,9 +44,9 @@
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="Clark's Kodi Repository">
-        <info compressed="false">https://raw.githubusercontent.com/cdbassett/cdbassetts-kodi-repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/cdbassett/cdbassetts-kodi-repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/cdbassett/cdbassetts-kodi-repo</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/cdbassett/cdbassetts-kodi-repo/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/cdbassett/cdbassetts-kodi-repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/cdbassett/cdbassetts-kodi-repo/master</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
