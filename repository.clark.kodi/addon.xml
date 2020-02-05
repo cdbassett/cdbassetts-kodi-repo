@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.clark.kodi" name="Clark's Kodi Repository" version="1.0.0" provider-name="Clark">
+<addon id="repository.clark.kodi" name="Clark's Kodi Repository" version="1.0.1" provider-name="Clark">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
