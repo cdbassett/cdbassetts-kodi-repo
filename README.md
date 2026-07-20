@@ -1,0 +1,1 @@
+My custom Kodi repository primarily for custom edits to a skin that I modified to make language learning easier (priamrily pausing doesn't bring up the UI so I can read the subtitles in Japanese and English without the UI blocking the view).
